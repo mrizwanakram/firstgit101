@@ -1,0 +1,58 @@
+1 - Which of th following is characteristic of best 
+    machine learning method?
+	[A]. Predictive B. Causal C. Mechanistics D. All of the mentioned
+
+2 - The input image has been converted into a matrix of size 28 X 28 
+    and a kernel/filter of size 7 X 7 with a stride of 1. 
+    What will be the size of the convoluted matrix?
+	A. 20x20 B. 21x21 [C]. 22x22 D. 25x25
+
+3 - In CNN, having max pooling always decrease the parameters?
+	A. True [B]. False C. Can be True & False D. Can not say
+
+4 - What is loss function or objective function in deep learning?
+	[A]. To control the output of a neural network, you need 
+           to be able to measure how far this output is from what you expected
+	B. To calculate loss in banks 
+ 	C. These are true targets of data
+	D. These are the predicted values only
+
+5 - The loss function takes the predictions of the network and 
+    the true target (what you wanted the network to output) and 
+    computes a distance score, capturing how well the network has done
+	[A]. True B. False 
+
+6 - SVM stands for?
+	[A]. Support Vector Machine
+	B. Support Vector Mechanism 
+	C. Super Visual Machine 
+	D. Support Vector Model
+
+7 - The two key ideas of deep learning for computer vision:
+	[A]. Convolutional neural networks and backpropagation 
+	[B]. Deep neural networks and kernel functions 
+	C. Support Vector Machines and loss functions 
+	D. None of the above 	
+
+8 - Overfit model? 
+	[A]. A model that learns the training dataset too well, 
+	   on the training dataset but does not perform well
+	   on a testing dataset
+	B. A model that fails to sufficiently learn the problem
+	   and performs poorly on a training dataset and does not 
+	   peerform well on a testing dataset
+	C. All of above
+	D. None of above
+
+9 - Which of the following statement(s) correctly represents a real neuron?
+	A. A neuron has a single input and a single output only
+	B. A neuron has multiple inputs but a single output only
+	C. A neuron has a single input but multiple outputs
+	D. A neuron has multiple inputs and multiple outputs
+	[E]. All of the above statements are valid
+
+10- Which of the following gives non-linearity to a neural network?
+	A. Stochastic Gradient Descent (SGD)
+	[B]. Rectified Linear Unit (ReLU)
+	C. Convolution function
+	D. None of the above  
